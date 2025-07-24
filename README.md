@@ -7,7 +7,7 @@ Este repositório contém minha solução para o teste técnico do processo sele
 ## 📁 Estrutura
 
 - `banco_de_dados/`: contém o script SQL com as tabelas do sistema de investimentos
-- `api_java/`: será onde ficará a aplicação Java (Spring Boot)
+- `api_java/`: será onde ficará a aplicação Java (Spring Boot) - em desenvolvimento
 
 ## 🧠 Etapa 1 – Banco de Dados
 
